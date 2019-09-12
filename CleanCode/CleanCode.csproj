@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MagicNumbers\DocumentStatus.cs" />
+    <Compile Include="MagicNumbers\MagicNumbers.cs" />
     <Compile Include="Names\Names.cs" />
     <Compile Include="LongParameterList\LongParameterList.cs" />
     <Compile Include="OutputParameters\OutputParams.cs" />
