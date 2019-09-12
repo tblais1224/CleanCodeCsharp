@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Names\Names.cs" />
     <Compile Include="LongParameterList\LongParameterList.cs" />
+    <Compile Include="OutputParameters\OutputParams.cs" />
     <Compile Include="PoorMethodSignatures\PoorMethodSignatures.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
