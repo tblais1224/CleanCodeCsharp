@@ -47,6 +47,7 @@
     <Compile Include="MagicNumbers\MagicNumbers.cs" />
     <Compile Include="Names\Names.cs" />
     <Compile Include="LongParameterList\LongParameterList.cs" />
+    <Compile Include="NestedConditionals\NestedConditionals.cs" />
     <Compile Include="OutputParameters\OutputParams.cs" />
     <Compile Include="PoorMethodSignatures\PoorMethodSignatures.cs" />
     <Compile Include="Program.cs" />
