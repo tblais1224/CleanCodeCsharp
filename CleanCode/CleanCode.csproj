@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Comments\Comments.cs" />
     <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
     <Compile Include="MagicNumbers\DocumentStatus.cs" />
     <Compile Include="MagicNumbers\MagicNumbers.cs" />
