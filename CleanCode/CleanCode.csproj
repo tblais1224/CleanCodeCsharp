@@ -52,6 +52,12 @@
     <Compile Include="PoorMethodSignatures\PoorMethodSignatures.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwitchStatements\Customer.cs" />
+    <Compile Include="SwitchStatements\MonthlyStatement.cs" />
+    <Compile Include="SwitchStatements\MonthlyUsage.cs" />
+    <Compile Include="SwitchStatements\PayAsYouGoCustomer.cs" />
+    <Compile Include="SwitchStatements\Unlimited.cs" />
+    <Compile Include="SwitchStatements\SwitchStatements.cs" />
     <Compile Include="VariableDeclarationAtTheTop\PayCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
