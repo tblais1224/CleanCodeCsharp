@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Comments\Comments.cs" />
     <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
+    <Compile Include="LongMethods\LongMethods.cs" />
+    <Compile Include="LongMethods\TableReader.cs" />
     <Compile Include="MagicNumbers\DocumentStatus.cs" />
     <Compile Include="MagicNumbers\MagicNumbers.cs" />
     <Compile Include="Names\Names.cs" />
