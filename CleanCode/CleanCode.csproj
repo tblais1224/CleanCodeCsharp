@@ -63,6 +63,8 @@
     <Compile Include="SwitchStatements\Unlimited.cs" />
     <Compile Include="SwitchStatements\SwitchStatements.cs" />
     <Compile Include="VariableDeclarationAtTheTop\PayCalculator.cs" />
+    <Compile Include="WebFormsExample\FullRefactoring\Example1.cs" />
+    <Compile Include="WebFormsExample\FullRefactoring\PostControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
